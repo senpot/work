@@ -5,7 +5,7 @@
 ### Reference
 * https://docs.aws.amazon.com/ja_jp/eks/latest/userguide/aws-load-balancer-controller.html
 
-### Added args in Deployment
+### Added some args in Deployment
 * EKS Private Cluster can't connect to WAF Endpoint, So I added some args to Deployment.
 
 ```yaml
