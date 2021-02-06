@@ -1,5 +1,6 @@
-# Work memo for me
+# Work note for me
 
-Hi there. This is work memo place for me. So there items are useless for most people.
+Hi there. This is work note place for me. So there items are useless for most people.
 
-[AWS](./AWS/README.md)
+[AWS](./AWS/Readme.md)
+[VMware]()./VMware/Readme.md)
