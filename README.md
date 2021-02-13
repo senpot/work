@@ -2,5 +2,5 @@
 
 Hi there. This is work note place for me. So there items are useless for most people.
 
-[AWS](./AWS/Readme.md)
-[VMware]()./VMware/Readme.md)
+* [AWS](./AWS/Readme.md)
+* [VMware](./VMware/Readme.md)
