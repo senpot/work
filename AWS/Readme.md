@@ -1,7 +1,8 @@
 # Work note for AWS
 
-## Commands tips
+## Tips
 
+[Point: Using EC2 instance for Router](ec2_router.md)
 
 ## EKS Private Cluster
 
